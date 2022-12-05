@@ -4,7 +4,7 @@
 
 # SINGLE COMMAND
 ````
-apt update && apt upgrade -y && pkg install python && git clone https://github.com/Hunter-alamin/FAFNIR && cd FAFNIR && pip install -r requirements.txt && & python Fafnir.py
+apt update && apt upgrade -y && pkg install python && git clone https://github.com/Hunter-alamin/FAFNIR && cd FAFNIR && pip install -r requirements.txt && python Fafnir.py
 
 ````
 # REQUIREMENTS
