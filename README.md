@@ -7,6 +7,10 @@
 apt update && apt upgrade -y && pkg install python && git clone https://github.com/Hunter-alamin/FAFNIR && cd FAFNIR && pip install -r requirements.txt && python Fafnir.py
 
 ````
+After That The tool Will run & then the file path that you wanna encrypt
+if you wanna just encrypt multi marshal type Y
+if you wanna make it harder type N in that case. 
+The file will be encrypted after that
 # REQUIREMENTS
 
 ````
