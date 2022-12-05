@@ -7,13 +7,12 @@
 $ apt update && apt upgrade -y && pkg install python && pip install -r requirements.txt && git clone https://github.com/Hunter-alamin/FAFNIR && cd FAFNIR && python Fafnir.py
 
 ````
-# COMMANDS 
+# REQUIREMENTS
 
 ````
-
-
-
-
+pystyle (0.6)
+requests
+A little patience 🐸
 ````
 
 # RECOMMENDED (TERMUX FROM FDROID)
